@@ -146,7 +146,7 @@ _Open AI Gym considers it solved at an average reward of 9.7, but this seems hig
 |9.09|0.9|0.15|0.95|Sarsa expected|
 |9.09|0.45|0.2|0.95|Sarsa expected|
 
-## Output
+## Sample Output
 ```
 Epsilon change=0.6, Alpha=0.2, Gamma=0.85, Type=Sarsa max
 Episode 20000/20000 || Best average reward 9.26  , current average reward 8.96
